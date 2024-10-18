@@ -68,7 +68,7 @@ _Una biblioteca pública gestiona el préstamo de libros a sus usuarios. Cada li
 
 ## Práctica
 
-_Juan está emocionado con la idea de modernizar su tienda de videojuegos. Hace un tiempo, el mercado de videojuegos se ha expandido mucho y los clientes buscan siempre las mejores ofertas. A veces Juan se confunde con los precios o pierde el control del inventario, lo que le <h3>usado problemas con algunos clientes que buscan juegos que ya no tiene o con precios mal actualizados. Además, su cuaderno está tan </h3>lleno de tachones que no sabe cuántas unidades tiene de cada juego._
+_Juan está emocionado con la idea de modernizar su tienda de videojuegos. Hace un tiempo, el mercado de videojuegos se ha expandido mucho y los clientes buscan siempre las mejores ofertas. A veces Juan se confunde con los precios o pierde el control del inventario, lo que le ha causado problemas con algunos clientes que buscan juegos que ya no tiene o con precios mal actualizados. Además, su cuaderno está tan lleno de tachones que no sabe cuántas unidades tiene de cada juego._
 
 _Por esta razón, le pide a un programador amigo que lo ayude a crear un sistema sencillo pero efectivo para automatizar el proceso de gestión de su tienda. "Necesito que este sistema me permita agregar, eliminar, actualizar y mostrar los videojuegos de mi catálogo de manera fácil y rápida", explica Juan._
 
