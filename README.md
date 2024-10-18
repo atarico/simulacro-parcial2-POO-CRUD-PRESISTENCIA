@@ -41,8 +41,6 @@ _Un club deportivo permite a los socios reservar canchas de tenis o fútbol por 
 **Pregunta:**
 
 ¿Se requiere el uso de un Enum para los tipos de cancha?
-Respuesta:
-Sí, es una buena práctica usar un Enum para representar los tipos de cancha (tenis y fútbol) y evitar errores al ingresar los datos.
 
 **Pregunta:**
 
